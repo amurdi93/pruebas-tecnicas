@@ -1,0 +1,18 @@
+.user-profile {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 400px;
+  margin: 20px auto;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-profile p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.user-profile p strong {
+  font-weight: bold;
+}
